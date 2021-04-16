@@ -25,15 +25,9 @@ Folder             | Description
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
 
-![C/C++ CI](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/c-cpp.yml/badge.svg) |
-
-![Static Check](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/cppcheck.yml/badge.svg) 
+![C/C++ CI](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/c-cpp.yml/badge.svg) | ![Static Check](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/cppcheck.yml/badge.svg) 
 ![Dynamic Valgrind](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/CodeQuality_Dynamic.yml/badge.svg) 
-![Code coverage](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/gcov.yml/badge.svg) |
-
-![Unit Testing](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/unity.yml/badge.svg) |
-
-![Git Inspector](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/gitinspector.yml/badge.svg) 
+![Code coverage](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/gcov.yml/badge.svg) | ![Unit Testing](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/unity.yml/badge.svg) | ![Git Inspector](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/gitinspector.yml/badge.svg) 
 
 #### References
 1. ![Sample design for Connect 4 program](http://www.dgp.toronto.edu/~rayo/csc181/a4/solution/design.html)
