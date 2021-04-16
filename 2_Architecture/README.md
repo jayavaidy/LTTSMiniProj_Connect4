@@ -16,6 +16,6 @@
 
 ![FeaturesLevelStructuralDiagram](./StructDia1.png)
 
-### Behavioural
+### Functional diagram
 
-![FeaturesBehaviouralDiagram](Link to Pic)
+![FeaturesBehaviouralDiagram](./LL2.png)
