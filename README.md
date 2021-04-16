@@ -18,7 +18,7 @@ Folder             | Description
 `1_Requirements`   | Details the requirements of the project and the research done
 `2_Design`         | Gives the  structural and behavioural design of the model
 `3_Implementation` | Code with documentation and testing
-`4_Test_plan`      | Document detailing the test plan
+`4_TestPlan`       | Document detailing the test plan
 
 ### Action badges
 
