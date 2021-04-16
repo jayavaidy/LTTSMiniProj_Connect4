@@ -4,7 +4,7 @@
 
 ### Architecture
 
-![HighLevelBehaviouralDiagram](,/HLL.png)
+![HighLevelBehaviouralDiagram](./highLevel.png)
 
 ### Behavioural
 
