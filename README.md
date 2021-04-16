@@ -3,6 +3,8 @@
 Welcome to Connect 4!!
 Connect 4 is a popular two player game whose rules are very simple and at the same time fun to play.
 
+![Connect 4](http://www.abstractstrategy.com/connect-four.jpg)
+
 ## Rules
 The game consists of a 6x7 grid. Each player is assigned a coin of a particular colour. The aim to place four coins consecutively (horizontally, vertically or diagonally) to win. 
 
