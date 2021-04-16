@@ -8,7 +8,7 @@
 
 ### Behavioural
 
-![HighLevelStructuralDiagram]('./behavioural.png)
+![HighLevelStructuralDiagram](./behavioural.png)
 
 ## Low Level Design 
 
