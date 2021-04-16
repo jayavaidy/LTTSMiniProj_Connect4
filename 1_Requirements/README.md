@@ -2,7 +2,7 @@
 ## Introduction
  Recreation is something that humans have sought from time immemorial, as the saying goes, "All work and no play makes Jack a dull boy". 
  
- >Connect 4 is a very popular board game in which the players first choose a color and then take turns dropping colored discs from the >top into a seven-column, six-row vertically suspended grid. The pieces fall straight down, occupying the next available space within >the column. The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own >discs. -- Wikipedia
+ >Connect 4 is a very popular board game in which the players first choose a color and then take turns dropping colored discs from the top into a seven-column, six-row vertically suspended grid. The pieces fall straight down, occupying the next available space within the column. The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs. -- Wikipedia
 
 ![Connect 4](https://upload.wikimedia.org/wikipedia/commons/e/e9/Connect4.PNG)
 
@@ -28,12 +28,12 @@ Here, this popular board game has been recreated digitally.
 
 ## Defining Our System
     
-    - The system has a user interface which allows the players to start a new game
-    - Once started, the game is managed by the computer which takes care of storing the players' move's, discarding illegal moves, analysing the board after each move to find the winning move, and terminating the game if there are no moves left.
+- The system has a user interface which allows the players to start a new game
+- Once started, the game is managed by the computer which takes care of storing the players' move's, discarding illegal moves, analysing the board after each move to find the winning move, and terminating the game if there are no moves left.
 
-    The high level system design is shown in the figure below
+The high level system design is shown in the figure below
 
-    ![System Design](./SysDes.png)
+![System Design](./SysDes.png)
 
 ## SWOT ANALYSIS
 
