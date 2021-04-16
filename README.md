@@ -6,7 +6,7 @@ Connect 4 is a popular two player game whose rules are very simple and at the sa
 ![Connect 4](http://www.abstractstrategy.com/connect-four.jpg)
 
 ## Rules
-The game consists of a 6x7 grid. Each player is assigned a coin of a particular colour. The aim to place four coins consecutively (horizontally, vertically or diagonally) to win. 
+The game consists of a 6x7 grid. Each player is assigned a coin of a particular colour. The aim is to place four coins consecutively (horizontally, vertically or diagonally) to win. 
 
 This is a digital recreation of the same game.
 
@@ -22,10 +22,12 @@ Folder             | Description
 
 ### Action badges
 
-Build | Code Quality | Unity | [Git Inspector](using github.io option)
-------|----------|-------|--------------
-
-[![C/C++ CI](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/c-cpp.yml) | [![Static Check](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/cppcheck.yml) [![Dynamic Valgrind](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/CodeQuality_Dynamic.yml) [![Code coverage](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/gcov.yml/badge.svg)](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/gcov.yml) | [![Unit Testing](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/unity.yml/badge.svg)](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/unity.yml) | [![Git Inspector](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/gitinspector.yml)
+[![C/C++ CI](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/c-cpp.yml) 
+[![Static Check](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/cppcheck.yml) 
+[![Dynamic Valgrind](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/CodeQuality_Dynamic.yml) 
+[![Code coverage](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/gcov.yml/badge.svg)](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/gcov.yml) 
+[![Unit Testing](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/unity.yml/badge.svg)](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/unity.yml) 
+[![Git Inspector](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/jayavaidy/LTTSMiniProj_Connect4/actions/workflows/gitinspector.yml)
 
 #### References
 1. ![Sample design for Connect 4 program](http://www.dgp.toronto.edu/~rayo/csc181/a4/solution/design.html)
